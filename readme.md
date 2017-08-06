@@ -1,4 +1,4 @@
-#intro-to-botframework-15-skypecallingbot
+# intro-to-botframework-15-skypecallingbot
 
 This is a simplified version of the IVR bot at https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp/skype-CallingBot.  After understanding the principles in this code I recommend that you take a look at this more robust example that demonstrates IVR in more detail.
 
