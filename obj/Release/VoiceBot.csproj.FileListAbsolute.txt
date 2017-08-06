@@ -1,0 +1,45 @@
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Bot Application.dll.config
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Bot Application.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Bot Application.pdb
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Autofac.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Chronic.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.Bot.Builder.Autofac.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.Bot.Builder.Calling.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.Bot.Builder.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.Bot.Connector.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.Rest.ClientRuntime.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Newtonsoft.Json.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\System.Net.Http.Formatting.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\System.Web.Http.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\System.Web.Http.WebHost.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Autofac.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.Bot.Builder.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.Bot.Builder.Autofac.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.Bot.Builder.Calling.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.Bot.Connector.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\Newtonsoft.Json.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\System.Net.Http.Formatting.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\System.Web.Http.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\System.Web.Http.WebHost.xml
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\obj\Release\VoiceBot.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\obj\Release\Bot Application.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\obj\Release\Bot Application.pdb
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\it\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+d:\documents\visual studio 2017\Projects\VoiceBot\VoiceBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
