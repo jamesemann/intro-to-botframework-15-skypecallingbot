@@ -7,6 +7,7 @@ To get this code running, you will need to update the web.config appSettings:
 1. "MicrosoftAppId" - your Microsoft App ID (from dev.botframework.com)
 2. "MicrosoftAppPassword" - your Microsoft App Password (from dev.botframework.com)
 3. "Microsoft.Bot.Builder.Calling.CallbackUrl" - url to your calling callback endpoint.  This will be something like "https://yourdomain.azurewebsites.net/api/calling/callback"
+4. "MicrosoftSpeechApiKey" - api key to access bing speech (from portal.azure.com)
 
 Once you have updated these settings, publish to your hosting environment of your choice, then enable Skype calling in dev.botframework.com.  To do this, "edit" the Skype channel against your bot, and select the calling tab. Set the following values and save:
 
